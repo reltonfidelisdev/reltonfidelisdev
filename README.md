@@ -1,7 +1,8 @@
-## Olá! Eu sou o Relton Fidelis 🖐️🇧🇷
-<div class="vendor-image">
-A minha vida se resume em família, estudo, código, código, um pouco mais de código e lazer.
-</div>
+## Olá! Eu sou o Relton Fidelis 🇧🇷
+
+### A minha vida se resume em família, estudo, código, código, um pouco mais de código e lazer.
+#### Aqui estão mais algumas informações sobre mim:
+
 
 [![Blog](https://img.shields.io/website?label=PermalinkTecnologia.com.br&style=for-the-badge&url=https://permalink.com.br/)](https://permalink.com.br/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/reltonfidelis)
@@ -12,7 +13,7 @@ A minha vida se resume em família, estudo, código, código, um pouco mais de c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reltonfidelisdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Technologies that I use everyday 
+## Coisas que fazem parte do meu dia: 
 <div style:"display: inline_block">
 <img src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/man-technologist_1f468-200d-1f4bb.png" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/man-technologist_1f468-200d-1f4bb.png 2x" alt="Man Technologist on Skype Emoticons 1.2" width="120" height="120">
 
