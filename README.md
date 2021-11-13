@@ -1,6 +1,6 @@
-## Olá! Eu sou o Relton Fidelis 🖐️
+## Olá! Eu sou o Relton Fidelis 🖐️🇧🇷
 <div class="vendor-image">
-
+A minha vida se resume em família, estudo, código, código, um pouco mais de código e lazer.
 </div>
 
 [![Blog](https://img.shields.io/website?label=PermalinkTecnologia.com.br&style=for-the-badge&url=https://permalink.com.br/)](https://permalink.com.br/)
