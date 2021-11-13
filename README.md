@@ -9,8 +9,8 @@ Eu sou um <strong>eterno estudante</strong>, minha <strong>meta</strong> é ser 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reltonfidelis)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reltonfidelis)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=reltonfidelisdev&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reltonfidelisdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=reltonfidelisdev&show_icons=true&theme=react&count_private=true)
+
 
 
 ## Coisas que fazem parte do meu dia: 
