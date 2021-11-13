@@ -25,7 +25,6 @@ Eu sou um <strong>eterno estudante</strong>, minha <strong>meta</strong> é ser 
 
 <img class=" lazyloaded" src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/skateboard_1f6f9.png" data-src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/skateboard_1f6f9.png" data-srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/skateboard_1f6f9.png 2x" alt="Skateboard" title="Skateboard" width="120" height="120" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/skateboard_1f6f9.png 2x">
 
-<img class=" lazyloaded" src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png" data-src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png" data-srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png 2x" alt="Ninja" title="Ninja" width="120" height="120" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png 2x">
 </div>
 <div style="display: inline_block">
   <h2>🚀 Backend Skills</h2>
@@ -71,4 +70,4 @@ Sinta-se confortálvel em manter o contato a qualquer momento.
 <h2>
   🤜🤛 Estou a um clique!
 </h2>
-
+<img class=" lazyloaded" src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png" data-src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png" data-srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png 2x" alt="Ninja" title="Ninja" width="240" height="240" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png 2x">
