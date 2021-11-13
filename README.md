@@ -2,7 +2,7 @@
 
 ### A minha vida se resume em família, estudo, código, código, um pouco mais de código e lazer.
 #### Eu penso que o mundo precisa de pessoas colaborativas, empáticas e cheias de vontade de inovar através de soluções que unem as skills de humanas, exatas e biológicas.
-Eu sou um <strong>eterno estudante</strong>, minha <strong>meta</strong> é ser um <strong>fullstack poliglota</strong> e minhas stacks favoritas são <strong>MEAN, MERN e PERN</strong>.
+Eu sou um <strong>eterno estudante</strong>, minha <strong>meta</strong> é ser um <strong>fullstack poliglota</strong> e minhas stacks favoritas são <strong>*MEAN, *MERN e *PEAN</strong>.
 
 [![Blog](https://img.shields.io/website?label=PermalinkTecnologia.com.br&style=for-the-badge&url=https://permalink.com.br/)](https://permalink.com.br/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/reltonfidelis)
@@ -71,3 +71,7 @@ Sinta-se confortálvel em manter o contato a qualquer momento.
   🤜🤛 Estou a um clique!
 </h2>
 <img class=" lazyloaded" src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png" data-src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png" data-srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png 2x" alt="Ninja" title="Ninja" width="240" height="240" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/ninja_1f977.png 2x">
+
+<strong>MEAN:</strong> MongoDB, ExpressJS, Angular e NodeJS <br />
+<strong>MERN:</strong> MongoDB, ExpressJS, React/React Native  e NodeJS <br />
+<strong>PEAN:</strong> PostgreSQL, ExpressJS, Angular e NodeJS <br />
