@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Relton Fidelis 🇧🇷
 
 ### A minha vida se resume em família, estudo, código, código, um pouco mais de código e lazer.
-#### Eu penso que o mundo precisa de pessoas colaborativas, empáticas e cheias de vontade de mudar o mundo através de soluções que unem as skills de humanas, exatas e biológicas.
+#### Eu penso que o mundo precisa de pessoas colaborativas, empáticas e cheias de vontade de inovar através de soluções que unem as skills de humanas, exatas e biológicas.
 Eu sou um <strong>eterno estudante</strong>, minha <strong>meta</strong> é ser um <strong>fullstack poliglota</strong> e minhas stacks favoritas são <strong>MEAN, MERN e PERN</strong>.
 
 [![Blog](https://img.shields.io/website?label=PermalinkTecnologia.com.br&style=for-the-badge&url=https://permalink.com.br/)](https://permalink.com.br/)
