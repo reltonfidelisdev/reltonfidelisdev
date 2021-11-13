@@ -54,13 +54,19 @@
   <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img align="center" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  
+  <h2>🚀 Project/Code Management Tools</h2>
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+                                                                                                                                       
   <h2>💻 OS</h2>
   <img align="center" alt="ubuntu-linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div><br/>
                                                                                                                                       
 ### Coisa boa é nunca para de estudar, enquanto vida existir.
-Sinta-se confortalvel em manter o contato a qualquer momento.
+Sinta-se confortálvel em manter o contato a qualquer momento.
 <h2>
   🤜🤛 Estou a um clique!
 </h2>
