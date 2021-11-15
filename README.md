@@ -73,7 +73,7 @@ Eu sou um <strong>eterno estudante</strong>, minha <strong>meta</strong> é ser 
   <img align="center" alt="tails-linux" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />
 </div><br/>
                                                                                                                                       
-### Coisa boa é nunca para de estudar, enquanto vida existir.
+### Coisa boa é nunca parar de estudar, enquanto vida existir.
 Sinta-se confortálvel em manter o contato a qualquer momento.
 <h2>
   🤜🤛 Estou a um clique!
